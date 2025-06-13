@@ -102,6 +102,12 @@ Feel free to improve this project! Just fork it, make your changes, and submit a
 
 MIT License - you can use this code however you want.
 
+## Support the project
+
+If this project helped you, consider buying me a coffee! ☕
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/asheint)
+
 ---
 
-Made by [Ashein](https://github.com/asheint) - Hope you find it useful!
+Made by [Ashen Thilakarathna](https://github.com/asheint) - Hope you find it useful!
